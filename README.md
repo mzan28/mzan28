@@ -1,7 +1,9 @@
 ## Hi there 👋
 ceci est un test
 
-<img src="vs.png" alt="Example Image" width="100%" />
+<p align="center">
+<img src="assets/img/erp.png" alt="Example Image" width="70%" />
+</p>
 
 [GitHub](https://github.com)
 ## Introduction
