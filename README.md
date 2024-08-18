@@ -1,5 +1,7 @@
 ## Hi there 👋
-ceci est un test
+<a href="README.fr.md">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/30px-Flag_of_France.svg.png" alt="Language icon" style="width: 30px; height: 30px;">
+</a>
 
 <p align="center">
 <img src="assets/img/erp.png" alt="Example Image" width="70%" />
